@@ -20,9 +20,21 @@ You need to change the names of images to load (base image and style image) in t
 Pic by [Mona Boitière](https://www.instagram.com/monaboitiere/)
 
 ![Screenshot](style1.jpg) ![Screenshot](style1.gif)
+(Vincent van Gogh)
 ![Screenshot](style2.jpg) ![Screenshot](style2.gif)
+(Don't know the artist)
 ![Screenshot](style4.jpg) ![Screenshot](style4.gif)
+(David Hockney)
+
+I then tried to transfer my style (from my drawings) to another picture :
+![Screenshot](img2.jpg)
+Pic from 'Drinking Buddies' movie
+
+![Screenshot](couleur09.jpg) ![Screenshot](couleur09.gif)
+![Screenshot](couleur35.jpg) ![Screenshot](couleur35.gif)
+![Screenshot](couleur12.jpg) ![Screenshot](couleur12.gif)
+![Screenshot](couleur41.jpg) ![Screenshot](couleur41.gif)
 
 # Thanks
 
-* [Keras Neural Transfer STyle code] (https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
+* [Keras Neural Transfer Style code] (https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
