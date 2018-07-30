@@ -1,5 +1,8 @@
 # neuralStyleTransfer
 A neural style transfer with keras
+Uses a pre-trained model : VGG16
+[Doc about VGG16] (Very Deep Convolutional Networks for Large-Scale Image Recognition)
+
 
 # Built with
 * [Keras with TensorFlow](https://keras.io/) Use to build model
