@@ -19,7 +19,7 @@ You need to change the names of images to load (base image and style image) in t
 
 # Output example
 
-![Screenshot](img.jpg)
+![Screenshot](images/img.jpg)
 Pic by [Mona Boitière](https://www.instagram.com/monaboitiere/)
 
 ![Screenshot](style1.jpg) ![Screenshot](style1.gif)
