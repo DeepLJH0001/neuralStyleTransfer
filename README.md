@@ -17,9 +17,12 @@ You need to change the names of images to load (base image and style image) in t
 # Output example
 
 ![Screenshot](img.jpg)
-![Screenshot](couleur09.jpg)
-![Screenshot](couleur09.gif)
+Pic by [Mona Boitière](https://www.instagram.com/monaboitiere/)
+
+![Screenshot](style1.jpg) ![Screenshot](style1.gif)
+![Screenshot](style2.jpg) ![Screenshot](style2.gif)
+![Screenshot](style4.jpg) ![Screenshot](style4.gif)
 
 # Thanks
 
-* Keras Neural Transfer STyle code (https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
+* [Keras Neural Transfer STyle code] (https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
