@@ -16,8 +16,9 @@ You need to change the names of images to load (base image and style image) in t
 
 # Output example
 
-![Screenshot](screenshot.png)
-
+![Screenshot](img.jpg)
+![Screenshot](couleur09.jpg)
+![Screenshot](couleur09.gif)
 
 # Thanks
 
