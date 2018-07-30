@@ -1,7 +1,7 @@
 # neuralStyleTransfer
-A neural style transfer with keras
-Uses a pre-trained model : VGG16
-[Doc about VGG16] (Very Deep Convolutional Networks for Large-Scale Image Recognition)
+* A neural style transfer with keras
+* Uses a pre-trained model : VGG16
+* [Doc about VGG16] (Very Deep Convolutional Networks for Large-Scale Image Recognition)
 
 
 # Built with
@@ -40,4 +40,4 @@ Pic from 'Drinking Buddies' movie
 
 # Thanks
 
-* [Keras Neural Transfer Style code] (https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
+* Keras Neural Transfer Style code (https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
